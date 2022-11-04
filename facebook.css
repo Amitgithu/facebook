@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:rgb(240 243 243);
+}
+.upper{
+    width:800px;
+    height: 350px;
+    position:absolute;
+    top:240px;
+    left:200px;
+}
+h2{
+    color:blue;
+    font-size:80px;
+}
+p{
+    font-size:35px;
+}
+.login{
+    width:450px;
+    height:360px;
+    background-color: white;
+    padding:10px;
+    border-radius:8px;
+    position:absolute;
+    top:180px;
+    right:100px;
+}
+input[type="username"]{
+    padding:10px;
+    width:420px;
+    border-radius:8px;
+    font-size:22px;
+}
+input[type="password"]{
+    padding:10px;
+    width:420px;
+    border-radius:8px;
+    font-size:22px;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+h4 a{
+    color:blue;
+}
+a{
+    text-decoration: none;
+}
+.account{
+    background-color: #31c331;
+    width:220px;
+    height: 55px;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    margin-left:95px;
+    border-radius:8px;
+}
+.log{
+    background-color: blue;
+    text-align: center;
+    width:440px;
+    height: 50px;;
+    color:white;
+    font-size: 25px;
+    border-radius:8px;
+}
+.button{
+    color:white;
+}
